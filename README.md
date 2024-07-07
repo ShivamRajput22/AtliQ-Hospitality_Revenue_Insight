@@ -1,4 +1,4 @@
-# AtliQ-Hotel-Hospitality-Analysis
+# AtliQ-Hospitality-Revenue-Insight-Analysis
 For this project, I used Power BI to design and create the Revenue Insights Dashboard for Hotel Hospitality. With the comprehensive view of key income indicators provided by this dashboard, making data-driven decisions that can result in remarkable success is made possible.
 
 ## Problem Statement
