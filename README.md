@@ -20,7 +20,7 @@ As a data analyst,  I have been tasked with completing the following task usin
 ![Data Model](https://github.com/ShivamRajput22/AtliQ-Hospitality_Revenue_Insight/blob/main/Data%20Model.png)
 
 ## Live Dashboard
-([https://github.com/harshmehta01/Hotel-Hospital-Analysis/assets/97782632/50334b3f-47a8-472f-af97-4873c8d75cbe](https://www.novypro.com/create_project/atliq-hospitality-revenue-insight-%7C-jul-7-2024-%7C-122743))
+![Protfolio]_(https://www.novypro.com/create_project/atliq-hospitality-revenue-insight-%7C-jul-7-2024-%7C-122743))
 
 
 ## Steps that I followed to complete this project
