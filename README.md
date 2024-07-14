@@ -22,6 +22,8 @@ As a data analyst,  I have been tasked with completing the following task usin
 ## Live Dashboard
 ![Protfolio]_(https://www.novypro.com/profile_projects/shivam-rajput?Popup=memberProject&Data=1720335463309x767440122457203700)
 
+## Power BI 
+(https://app.powerbi.com/groups/me/reports/e6c0efd3-651d-43b1-b0de-5816c9da140f/f5a5b7e1233281b78b0f?experience=power-bi)
 
 ## Steps that I followed to complete this project
  
